@@ -1,4 +1,5 @@
 # Course Suggester
+*Made with DemoGPT for Fall 2023 CS 8395-08*
 
 ## Overview
 
